@@ -1,0 +1,5 @@
+{
+  "name": "ProxyScout Pro",
+  "description": "A professional-grade proxy list manager and analyzer. Parse messy lists, organize by protocol (SOCKS5/4/HTTP), and analyze geo-distribution using AI. Includes a visual simulation of connectivity testing.",
+  "requestFramePermissions": []
+}
